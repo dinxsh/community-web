@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Janette Lynch"
-title: "Senior Director"
+name: "Dinesh Talwadker"
+title: "Founder and CEO"
 avatar: {
-    src: "https://images.unsplash.com/photo-1580489944761-15a19d654956?&fit=crop&w=280",
-    alt: "Janette Lynch"
+    src: "https://cdn.discordapp.com/attachments/721099327594037288/1065870189922635786/IMG_20230119_211609_479-removebg-preview_1.png",
+    alt: "Dinesh Talwadker"
 }
 publishDate: "2022-11-07 15:39"
 ---

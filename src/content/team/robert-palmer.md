@@ -1,9 +1,9 @@
 ---
 draft: false
-name: "Robert Palmer"
-title: "Marketing Engineer"
+name: "Sri Vamsi Rajesh"
+title: "Hiring Resource Manager"
 avatar: {
-    src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
+    src: "https://cdn.discordapp.com/attachments/721099327594037288/1064961289249624205/WhatsApp_Image_2022-12-07_at_3.06.09_PM.jpg",
     alt: "Robert Palmer"
 }
 publishDate: "2022-11-09 15:39"
