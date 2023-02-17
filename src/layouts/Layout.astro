@@ -3,9 +3,6 @@ import { SEO } from "astro-seo";
 import Footer from "@components/footer.astro";
 import Navbar from "@components/navbar/navbar.astro";
 import "@fontsource/inter/variable.css";
-import { inject } from '@vercel/analytics';
-
-inject();
 
 export interface Props {
   title: string;
@@ -44,7 +41,7 @@ const makeTitle = title
     <!-- <link rel="preload" as="image" href={src} alt="Hero" /> -->
     <SEO
       title={makeTitle}
-      description="Astroship is a starter website template for Astro built with TailwindCSS."
+      description="vexis is a starter website template for Astro built with TailwindCSS."
       canonical={canonicalURL}
       twitter={{
         creator: "@surjithctly",
@@ -55,11 +52,11 @@ const makeTitle = title
         basic: {
           url: canonicalURL,
           type: "website",
-          title: `Astroship - Starter Template for Astro`,
+          title: `vexis - Starter Template for Astro`,
           image: resolvedImageWithDomain,
         },
         image: {
-          alt: "Astroship Homepage Screenshot",
+          alt: "vexis Homepage Screenshot",
         },
       }}
     />
